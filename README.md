@@ -253,20 +253,20 @@ Put/Call Ratio
 
 <a name="ModelSelection" />  
 ## Model Selection  
-1.[**Scikit-Learn: Choosing the Right Estimator**](http://scikit-learn.org/dev/tutorial/machine_learning_map/index.html)
-2.[**Choosing the Correct Statistical Test**](http://bama.ua.edu/~jleeper/627/choosestat.html)
-3.[**Steps for choosing a timeseries model**](http://people.duke.edu/~rnau/411fcst.htm)  
+1.[**Scikit-Learn: Choosing the Right Estimator**](http://scikit-learn.org/dev/tutorial/machine_learning_map/index.html)  
+2.[**Choosing the Correct Statistical Test**](http://bama.ua.edu/~jleeper/627/choosestat.html)  
+3.[**Steps for choosing a timeseries model**](http://people.duke.edu/~rnau/411fcst.htm)    
 ![TimeSeries](http://people.duke.edu/~rnau/411flow.gif)  
-4. [**Timeseries Analysis using Statsmodel**](http://conference.scipy.org/proceedings/scipy2011/pdfs/statsmodels.pdf)  
-5. [**Machine Learning Guide**](https://github.com/soulmachine/machine-learning-cheat-sheet/raw/master/machine-learning-cheat-sheet.pdf)  
-6. [**Machine Learning Algorithm Computation Complexity**](http://eferm.com/wp-content/uploads/2011/05/cheat3.pdf)  
-7. [**Optimization and Root Finding**](http://docs.scipy.org/doc/scipy/reference/optimize.html)  
-8. [**Neural Network Forcasting Finnnicial Time Series](http://www.cs.cmu.edu/afs/cs/academic/class/15782-f06/slides/timeseries.pdf)  
+4. [**Timeseries Analysis using Statsmodel**](http://conference.scipy.org/proceedings/scipy2011/pdfs/statsmodels.pdf)    
+5. [**Machine Learning Guide**](https://github.com/soulmachine/machine-learning-cheat-sheet/raw/master/machine-learning-cheat-sheet.pdf)    
+6. [**Machine Learning Algorithm Computation Complexity**](http://eferm.com/wp-content/uploads/2011/05/cheat3.pdf)   
+7. [**Optimization and Root Finding**](http://docs.scipy.org/doc/scipy/reference/optimize.html)    
+8. [**Neural Network Forcasting Finnnicial Time Series](http://www.cs.cmu.edu/afs/cs/academic/class/15782-f06/slides/timeseries.pdf)    
 
 <a name="ParameterandFeatureSelection" />  
 ## Parameter and Feature Selection  
 1.[**Scikit Learn Grid Search**](http://scikit-learn.org/stable/modules/grid_search.html
-)  
+)    
 2.[**Scikit Learn's Feature Selection Feature**](http://scikit-learn.org/stable/modules/feature_selection.html)  
 
 <a name="credits" />
