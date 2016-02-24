@@ -160,7 +160,7 @@ Distribution of features may change after feature engineering
 4.Linear  
 5.Cointegration  
 
-***Energy and Density**  
+**Energy and Density**  
 [Spectral Density](https://onlinecourses.science.psu.edu/stat510/node/80)  
 
 **Measure of Information**  
@@ -203,7 +203,7 @@ What to predict for model. For example, rather than predict price, we can predic
 
 ### Price
 1.Bid/Ask/Mid (Average, Percent, Range)  
-2.Deviation from mid price = Mid + Indictator (+1/-1)/2 (+1 Buyer Driven -1 Seller Driven)  
+2.Deviation from mid price    (+1/-1)(+1 Buyer Driven -1 Seller Driven)  
 3.Trend: Open - Close  
 4.Peak to peak width and depth  
 5.Relative Value  
